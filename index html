@@ -4,16 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CDACC</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
    <h1 class="h1"> <marquee behavior="alternate">VERIFICATION REQUIRED </marquee></h1>
     <button class="fingerprintbutton" id="authenticateButton"><b>CLICK HERE:</b><br>Authenticate with Fingerprint</br></button>
     <p id="status"></p>
-
-    <script src="fingerprint.js"></script>
 <footer class="footer">
 <marquee behavior="scroll" direction="left"><p>&copy Rictei softwares</p></marquee>
     
 </footer>
+<script src="script.js"></script>
 </body>
 </html>
